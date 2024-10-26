@@ -4,7 +4,7 @@ A web GUI for inpainting with [Ideogram v2](https://replicate.com/ideogram-ai/id
 
 Try it out at [inpainter.app](https://inpainter.app)
 
-https://user-images.githubusercontent.com/2289/188992670-3dc9db47-fb8e-45c1-85ee-afc850009c48.mp4
+https://github.com/user-attachments/assets/4e659176-b442-48ed-b4dc-dc774e0354c5
 
 ## How it works
 
